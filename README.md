@@ -194,6 +194,6 @@ Last, kernel specifies the kernel type to be used in the algorithm.
 To put it simply it is kind of dimensional conversion to classify the models.
 
 ## License
-
+This is avaliable under the MIT License.
 
 ## Thanks
